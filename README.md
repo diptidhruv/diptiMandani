@@ -1,9 +1,9 @@
 # Hi There,
 
-I am Dipti Mandani, dedicated and efficient software enginear with 5.7 year-experience, specialized in developing cutting-edge engineering 
-and speacialized in Javascript and Javascript frameworks like React JS.
+I am Dipti Mandani, dedicated and efficient software enginear with 5.10 years experience, specialized in developing cutting-edge engineering 
+and speacialized in Javascript and Javascript frameworks like React JS,Angular JS.
 
-Skilled in front-end development for single page application (SPA) with HTML5, CSS3, JavaScript, React.js, jQuery, and AJAX.
+Skilled in front-end development for single page application (SPA) with HTML5, CSS3, JavaScript, React.js,Angular JS, jQuery and AJAX.
 
 Experience with Object Oriented Programming , modular programing in Javascript including asynchronous programming, closures and ES6/ES7.
 
